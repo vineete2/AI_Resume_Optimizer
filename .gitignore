@@ -1,0 +1,9 @@
+.env.local
+*.json
+.lhignore
+__pycache__
+frontend/node_modules
+/.idea/
+CV_Aksh.pdf
+.idea
+.venv

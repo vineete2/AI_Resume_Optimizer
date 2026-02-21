@@ -1,0 +1,16 @@
+pypdf
+litellm
+pyyaml
+langchain
+pydantic
+langchain-huggingface
+langchain-mistralai
+langchain-openai
+transformers
+python-multipart
+fastapi
+uvicorn
+python-dotenv
+huggingface-hub
+langchain-core
+typer
